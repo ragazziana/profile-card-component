@@ -25,10 +25,14 @@ body {
 }
 
 body{
+    height: 100vh;
     overflow: hidden;
     font-family: 'Kumbh Sans', sans-serif;;
     background-color: var(--dark-cyan);
     font-size: 1.6rem;
+    background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right 53vw bottom 30vh, left 48vw top 52vh;
 }
 
 main{
@@ -46,27 +50,6 @@ main{
     justify-content: center;
     align-items: center;
     position: relative;
-}
-
-.top-circle{
-    overflow: hidden;
-    position: absolute;
-    width: 97.8rem;
-    height: 97.6rem;
-    z-index: -1;
-    right: 15rem;
-    bottom: 10rem;
-}
-
-.bottom-circle{
-    overflow: hidden;
-    width: 97.8rem;
-    height: 97.6rem;
-    position: absolute;
-    z-index: -1;
-    left: 10rem;
-    opacity: 0.25;
-    top: 22rem;
 }
 
 .card-top{
@@ -162,7 +145,8 @@ h1{
     }
 
     .wrapper{
-        margin-top: 16.9rem;
+        margin-top: 17.3rem;
+        margin-bottom: 17.3rem;
     }
     .card-top{
         background-image: url(/images/bg-pattern-card.svg);
