@@ -152,12 +152,19 @@ h1{
     color: var(--dark--grayish-blue);
 }
 
-/* @media (min-width: 37.6rem){
+@media (min-width: 37.6rem){
 
     .wrapper, 
     .card-top,
     .main-card{
         width: 35rem;
+    }
+
+    .wrapper{
+        margin-top: 16.9rem;
+    }
+    .card-top{
+        background-image: url(/images/bg-pattern-card.svg);
     }
 
     .top-circle{
@@ -166,13 +173,12 @@ h1{
     }
     
     .bottom-circle{
-
         left: 10rem;
         top: 23rem;
     }
 
 }
- */
+
 
 
 
