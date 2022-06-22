@@ -1,4 +1,4 @@
-# Frontend Mentor - Profile card Component
+# Frontend Mentor - Profile Card Component
 
 This is a solution to the [Profile Card Component](https://www.frontendmentor.io/solutions/profile-card-component-oZetueUSuy). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
