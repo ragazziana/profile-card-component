@@ -33,6 +33,7 @@ body{
     background-image: url('images/bg-pattern-top.svg'), url('images/bg-pattern-bottom.svg');
     background-repeat: no-repeat, no-repeat;
     background-position: right 53vw bottom 30vh, left 48vw top 52vh;
+    background-attachment: fixed;
 }
 
 main{
