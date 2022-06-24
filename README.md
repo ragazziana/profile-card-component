@@ -10,7 +10,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Download the starter code and go through the  `README.md`  file. This will provide further details about the project. The  `style-guide.md`  file is where you'll find colors, fonts, etc.
 
-## Screenshot and Live Version
+## Preview
 
 💻 [Here is the live version of my solution](https://ragazziana.github.io/profile-card-component/)
 
