@@ -12,7 +12,7 @@ Download the starter code and go through the  `README.md`  file. This will provi
 
 ## Preview
 
-💻 [Here is the live version of my solution](https://ragazziana.github.io/profile-card-component/)
+💻 [Live Version Here](https://ragazziana.github.io/profile-card-component/)
 
 ### Mobile Version
 ![enter image description here](https://github.com/ragazziana/profile-card-component/blob/main/design/mobile-design.jpg?raw=true)
